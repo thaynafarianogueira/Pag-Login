@@ -1,2 +1,2 @@
 # Pag-Login
- Tela login responsiva
+ Tela login responsiva com autenticação. 
